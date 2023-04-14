@@ -1,0 +1,11 @@
+C:\Users\lenovo\Documents\GitHub\Electric-billing-system\Project\bin\Debug\Project.exe.config
+C:\Users\lenovo\Documents\GitHub\Electric-billing-system\Project\bin\Debug\Project.exe
+C:\Users\lenovo\Documents\GitHub\Electric-billing-system\Project\bin\Debug\Project.pdb
+C:\Users\lenovo\Documents\GitHub\Electric-billing-system\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\lenovo\Documents\GitHub\Electric-billing-system\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Documents\GitHub\Electric-billing-system\Project\obj\Debug\Project.Form1.resources
+C:\Users\lenovo\Documents\GitHub\Electric-billing-system\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\lenovo\Documents\GitHub\Electric-billing-system\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\lenovo\Documents\GitHub\Electric-billing-system\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\GitHub\Electric-billing-system\Project\obj\Debug\Project.exe
+C:\Users\lenovo\Documents\GitHub\Electric-billing-system\Project\obj\Debug\Project.pdb

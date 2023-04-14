@@ -1,4 +1,6 @@
-﻿using System;
+﻿#pragma once 
+#include "Account_Settings.h"
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
